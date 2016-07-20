@@ -180,6 +180,13 @@ footer
 
 /* ALL NON HOME PAGE */
 
+.logo
+{
+    margin-right:auto;
+    font-size:25px;
+    font-family:ralewaysemibold;
+}
+
 .stickfooter
 {
     min-height:calc(100vh - 50px);
@@ -193,6 +200,11 @@ footer
 .otherh a:hover
 {
     border-bottom:2px solid orange;
+}
+
+.logo:hover
+{
+    border-bottom:0px !important;
 }
 
 .otherf
