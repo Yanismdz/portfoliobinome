@@ -194,7 +194,7 @@ footer
 
 .otherh
 {
-    height:60px;
+    height:20vh;
 }
 
 .otherh a:hover
@@ -223,6 +223,10 @@ footer
 	flex-direction:row;
 	justify-content:flex-end;
 	align-items:center;
+    }
+    .otherh
+    {
+	height:60px;
     }
 }
 
